@@ -1,0 +1,9 @@
+version control software
+Open source
+- Concurrent Versions System (CVS) – originally built on RCS, licensed under the GPL.
+  - CVSNT – cross-platform port of CVS that allows case insensitive file names among other changes
+  - OpenCVS – CVS clone under the BSD license, with emphasis put on security and source code correctness
+- Subversion (SVN) – versioning control system inspired by CVS[4]
+- Vesta – build system with a versioning file system and support for distributed repositories
+
+
